@@ -65,11 +65,11 @@ search.addEventListener("click", () => {
                     break;
 
                 case "Haze":
-                    image.src = "mist.png";
+                    image.src = "image/mist.png";
                     break;
 
                 default:
-                    image.src = "cloud.png";
+                    image.src = "image/cloud.png";
             }
 
             temperature.innerHTML = `${parseInt(
