@@ -1,1 +1,1 @@
-# Weather App in JS 
+# Weather App in JS 🍃🌦️
